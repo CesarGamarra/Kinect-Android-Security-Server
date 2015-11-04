@@ -1,0 +1,11 @@
+c:\users\farcrat\documents\visual studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\bin\Debug\ServidorSeguridad.exe.config
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\bin\Debug\ServidorSeguridad.exe
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\bin\Debug\ServidorSeguridad.pdb
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\obj\Debug\ServidorSeguridad.csprojResolveAssemblyReference.cache
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\obj\Debug\ServidorSeguridad.Form1.resources
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\obj\Debug\ServidorSeguridad.Properties.Resources.resources
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\obj\Debug\ServidorSeguridad.csproj.GenerateResource.Cache
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\obj\Debug\ServidorSeguridad.exe
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\obj\Debug\ServidorSeguridad.pdb
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\bin\Debug\Fleck.dll
+c:\Users\Farcrat\Documents\Visual Studio 2012\Projects\ServidorSeguridad\ServidorSeguridad\obj\Debug\ServidorSeguridad.Angulo.resources
